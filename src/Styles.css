@@ -1,0 +1,38 @@
+.buscar {
+    background-color: rgb(29, 29, 84);
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    width: 620px;
+    justify-content: space-between;
+    height: 25px;
+
+}
+
+.iconBuscar {
+    color: blue;
+    font-size: 20px; 
+}
+
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 4px;
+    width: 400px;
+    background-color: transparent;
+}
+
+
+button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    position: absolute; 
+    width: 90px;
+}
+
