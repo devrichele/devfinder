@@ -8,8 +8,8 @@ function App() {
       <div className='buscar'>
         <div className='campo-busca'>
           <IoSearch className='iconBuscar' />
-          <input placeholder="Busque username_" />
-          <button>Search</button>
+          <input placeholder="Adicione username_" />
+          <button>Adicionar</button>
         </div>
       </div>
     </div>
